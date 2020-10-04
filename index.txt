@@ -1,1 +1,2 @@
-1.sqli-lab  ---------- ok
+1.sqli-lab             ---------- ok
+2.upload-lab           ---------- ok
